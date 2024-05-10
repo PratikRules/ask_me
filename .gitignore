@@ -1,0 +1,8 @@
+cache
+charts
+dataframes
+faiss_index
+files
+images
+.env
+pandasai.log
